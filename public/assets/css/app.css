@@ -1,0 +1,8 @@
+.bg-gray {
+    background-color: #3a3b3c;
+  }
+  
+  .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #FBFBFB;
+  }
+
